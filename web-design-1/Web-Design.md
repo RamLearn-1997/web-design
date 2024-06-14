@@ -11,7 +11,11 @@ when it comes to **Common Patterns** you'll learn about the various types of ele
 # Content
 
 #### [Lesson-2-Course project and Assignment](./Lesson-2-Course-project-and-Assignment.md)
+<<<<<<< HEAD
 #### [Lesson-3-UI-Design-vs.-UX-Design-vs.-Web-Design](./Lesson-3-UI-Design-vs.-UX-Design-vs.-Web-Design.md)
+=======
+#### [Lesson-3-UI-Design-vs.-UX-Design-vs.-Web-Design](./Lesson-3-UI-Design-vs.-UX-Design-vs.-Web-Design)
+>>>>>>> 2cbb6f71c24f47896e3178057e62e82e68a1ae29
 
 #### [Lesson-4-Learning-to-work-with-project-briefs](./Lesson-4-Learning-to-work-with-project-briefs.md)
 
