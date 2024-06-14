@@ -10,12 +10,12 @@ when it comes to **Common Patterns** you'll learn about the various types of ele
 
 # Content
 
-#### [Lesson-2-Course project and Assignment](/Lesson-2-Course-project-and-Assignment)
-#### [Lesson-3-UI-Design-vs.-UX-Design-vs.-Web-Design](./Lesson-3-UI-Design-vs.-UX-Design-vs.-Web-Design)
+#### [Lesson-2-Course project and Assignment](./Lesson-2-Course-project-and-Assignment.md)
+#### [Lesson-3-UI-Design-vs.-UX-Design-vs.-Web-Design](./Lesson-3-UI-Design-vs.-UX-Design-vs.-Web-Design.md)
 
-#### [Lesson-4-Learning-to-work-with-project-briefs](./Lesson-4-Learning-to-work-with-project-briefs)
+#### [Lesson-4-Learning-to-work-with-project-briefs](./Lesson-4-Learning-to-work-with-project-briefs.md)
 
-#### [Lesson-5-Working-with-Wireframes](./Lesson-5-Working-with-Wireframes)
+#### [Lesson-5-Working-with-Wireframes](./Lesson-5-Working-with-Wireframes.md)
 
 #### [Lesson-6-picking-the-right-design-tools](./Lesson-6-picking-the-right-design-tools.md)
 
